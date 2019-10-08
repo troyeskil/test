@@ -1,5 +1,6 @@
 int main() {
 	printf("#3");
 	x = 420;
+	y = 69;
 	printf("Bye");
 }
