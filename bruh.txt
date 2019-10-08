@@ -1,7 +1,12 @@
 <<<<<<< HEAD
 int main() {
+<<<<<<< HEAD
 	printf("#3");
 	printf("Bye");
 }
 =======
 >>>>>>> parent of def42fc... added print
+=======
+	printf("#3")
+}
+>>>>>>> parent of 02c87b4... added bye
