@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 int main() {
 	printf("#3");
 	printf("Bye");
 }
+=======
+>>>>>>> parent of def42fc... added print
